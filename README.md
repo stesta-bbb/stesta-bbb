@@ -1,16 +1,86 @@
-## Hi there 👋
+# 你好，我是徐依冉 👋
 
-<!--
-**stesta-bbb/stesta-bbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **大学生 | 会计 | 嘉兴大学**  
+🌍 **地点**: 浙江温州  
+📧 **邮箱**:1244714131@qq.com
+💼 **LinkedIn**: [你的LinkedIn链接]  
+🐦 **Twitter**: [你的Twitter链接]  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 关于我
+
+我是一名[你的专业]专业的大学生，对[你的兴趣领域，如“软件开发”、“数据科学”、“人工智能”等]充满热情。我喜欢通过实践项目来提升自己的技能，并积极探索新技术。目前，我正在学习[你正在学习的技术或工具]，并希望未来能够在[你的职业目标，如“成为一名全栈开发者”、“从事数据科学工作”]领域有所发展。
+
+---
+
+## 技能
+
+### 编程语言
+- **熟练**: [例如：Python, Java, C++]
+- **了解**: [例如：JavaScript, SQL, HTML/CSS]
+
+### 工具与技术
+- [例如：Git, Docker, Linux]
+- [例如：React, Node.js, Flask]
+- [例如：TensorFlow, Pandas, NumPy]
+
+### 其他技能
+- [例如：团队协作、项目管理、英语流利]
+
+---
+
+## 项目
+
+### 1. [项目名称]
+- **描述**: [简要描述项目内容]
+- **技术栈**: [使用的技术或工具]
+- **链接**: [GitHub仓库链接或演示链接]
+
+### 2. [项目名称]
+- **描述**: [简要描述项目内容]
+- **技术栈**: [使用的技术或工具]
+- **链接**: [GitHub仓库链接或演示链接]
+
+### 3. [项目名称]
+- **描述**: [简要描述项目内容]
+- **技术栈**: [使用的技术或工具]
+- **链接**: [GitHub仓库链接或演示链接]
+
+---
+
+## 学习经历
+
+### [学校名称]
+- **专业**: [你的专业]
+- **时间**: [入学时间] - [毕业时间]
+- **相关课程**: [列出相关课程，如“数据结构与算法”、“机器学习”、“数据库系统”等]
+
+---
+
+## 荣誉与奖项
+- [奖项名称] - [颁发机构] - [时间]
+- [奖项名称] - [颁发机构] - [时间]
+
+---
+
+## 兴趣爱好
+- [例如：开源贡献、阅读技术博客、参加编程竞赛]
+- [例如：摄影、旅行、音乐]
+
+---
+
+## GitHub数据
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical)
+
+---
+
+📊 **GitHub贡献图**  
+![GitHub贡献图](https://ghchart.rshah.org/你的GitHub用户名)
+
+---
+
+感谢访问我的GitHub主页！如果你对我的项目感兴趣，欢迎联系我！😊
+
